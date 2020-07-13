@@ -1,4 +1,4 @@
-### Are you the ToS to my CoC 😏?
+### Are you the ToS to my CoC? 😏
 
 
 <!--
