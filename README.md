@@ -1,4 +1,4 @@
-#### Are you the ToC to my CoC?
+### Are you the ToC to my CoC?
 
 
 <!--
