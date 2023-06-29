@@ -1,5 +1,6 @@
 ### Welcome to my github
 
+<img src="https://personlig-bilskilt.storbukas.no/LUDDE">
 
 <!--
 **ljellevo/ljellevo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
