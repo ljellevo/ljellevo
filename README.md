@@ -1,7 +1,3 @@
-
-
-<img src="https://personlig-bilskilt.storbukas.no/LUDDE">
-
 <!--
 ### Welcome to my github
 
